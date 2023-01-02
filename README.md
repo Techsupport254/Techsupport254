@@ -1,9 +1,9 @@
 # About me
-## My name is Victor Kirui
+# Name: Victor Kirui
 
-## I am a Software Engineer
+## Software Engineer
 
-## I am based in Nairobi, Kenya
+### Location: Nairobi, Kenya
 
 ## My hobbies include:
 - Reading
