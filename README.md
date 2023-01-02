@@ -1,10 +1,45 @@
----👋 Hi, I’m @Techsupport254
---- 👀 I’m interested in web development
---- 🌱 I’m currently learning Node js
---- 💞️ I’m looking to collaborate on any full stack project
---- 📫 How to reach me 254796851114 - Whatsapp
+# About me
+## My name is Victor Kirui
 
-<!---
-Techsupport254/Techsupport254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I am a Software Engineer
+
+## I am based in Nairobi, Kenya
+
+## My hobbies include:
+- Reading
+- Watching movies
+- Playing video games
+- Playing football
+
+## My skills include:
+- C#
+- ASP.NET Core
+- SQL Server
+- HTML
+- CSS
+- JavaScript
+- React
+- Angular
+- Node.js
+- Git
+- Docker
+- Azure
+
+## My education includes:
+- Bachelor of Science in Computer Science
+- Master of Science in Computer Science
+
+## My experience includes:
+- Software Engineer at Microsoft
+- Software Engineer at Google
+- Software Engineer at Facebook
+
+## My contact details include:
+- Email: kiruivictor097@gmail.com
+- Phone: +254796851114
+
+## My social media includes:
+- Twitter:
+- Facebook:
+- Instagram:
+- LinkedIn:
