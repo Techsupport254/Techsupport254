@@ -27,19 +27,15 @@
 
 ## My education includes:
 - Bachelor of Science in Computer Science
-- Master of Science in Computer Science
 
 ## My experience includes:
-- Software Engineer at Microsoft
-- Software Engineer at Google
-- Software Engineer at Facebook
+
 
 ## My contact details include:
 - Email: kiruivictor097@gmail.com
 - Phone: +254796851114
 
 ## My social media includes:
-- Twitter:
-- Facebook:
-- Instagram:
-- LinkedIn:
+- Twitter: https://twitter.com/Woo_quaint
+- Instagram: https://www.instagram.com/terminal_boy_/
+- LinkedIn: https://www.linkedin.com/in/victor-kirui-193aa4222/
