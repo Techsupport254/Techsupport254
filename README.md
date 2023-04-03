@@ -27,7 +27,7 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 ">
 <!-- profile image -->
-<img src="https://photos.google.com/photo/AF1QipMWWRVXpw66mYIy0OGxVf3s-x4pt2mPeHWcHO0u" alt="profile image" style="border-radius: 50%; width: 150px; height: 150px; margin-bottom: 20px;">
+<img src="https://avatars.githubusercontent.com/u/67810199?v=4" alt="profile image" style="border-radius: 50%; width: 150px; height: 150px; margin-bottom: 20px;">
 </div>
 <!-- right side -->
 <div style="
