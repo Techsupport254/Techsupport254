@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="linkedin">
 </a>
 <!-- instagram -->
-<a href="https://www.instagram.com/victor_kirui/" target="_blank" style="margin: 0 10px;">
+<a href="https://www.instagram.com/quaint_algorithm/" target="_blank" style="margin: 0 10px;">
 <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="instagram">
 </a>
 
